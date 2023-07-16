@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/SceneLoadgame.unity
     guid: 4d88b634f583266448ad44db7c5a377a
   - enabled: 1
+    path: Assets/Scenes/SceneOptions.unity
+    guid: d0bb88207f5902144a62504f09be271a
+  - enabled: 1
+    path: Assets/Scenes/SceneSobremi.unity
+    guid: e9420c5d65d661b4cb1fb8eb68f50feb
+  - enabled: 1
     path: Assets/Scenes/SceneCargando.unity
     guid: f7a2d798f441b0148833442a95998515
   - enabled: 1
